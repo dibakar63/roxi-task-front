@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+.pagination-btn{
+  width: 100px;
+}
+.select{
+  width: 120px;
+}
+table{
+  margin-top: 50px;
+  
+}
+
+
+.span{
+  margin-left: 10px;
+  font-weight: bolder;
+}
+.input{
+  width: 250px;
+  height: 49px;
+  margin-top: 5px;
+  margin-right: 2px;
+}
